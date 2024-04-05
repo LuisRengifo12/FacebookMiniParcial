@@ -1,0 +1,46 @@
+﻿/* Estilos para el contenedor principal */
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Estilos para el formulario */
+.divform {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+/* Estilos para el título */
+.NombreLogin {
+    color: #007bff;
+}
+
+/* Estilos para los campos de entrada de texto */
+.usuarioTextbox,
+.passTextbox {
+    border-radius: 5px;
+}
+
+/* Estilos para los botones */
+.botonLogin,
+.botonRegistrarse {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Estilos para el mensaje de error */
+.divlabel {
+    margin-top: 10px;
+}
+
+/* Estilos para el enlace de olvidar contraseña */
+.divOlviContra {
+    margin-top: 10px;
+}
+
+.botonOlvidasteC {
+    color: #007bff;
+    text-decoration: none;
+}
